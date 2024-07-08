@@ -3,13 +3,13 @@
     {
       "nombre": "Stormtrooper 1",
       "precio": "$ 60",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp",
       "id": "1"
     },
     {
       "nombre": "Game Boy Classic 1",
       "precio": "$ 60",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp,
       "id": "2"
     },
     {
@@ -21,7 +21,7 @@
     {
       "nombre": "Game Boy Classic 2",
       "precio": "$ 60",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp",
       "id": "4"
     },
     {
@@ -33,19 +33,19 @@
     {
       "nombre": "Game Boy Classic 3",
       "precio": "$ 60",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webpg",
       "id": "6"
     },
     {
       "nombre": "Game Boy Classic 4",
       "precio": "$ 65",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp",
       "id": "7"
     },
     {
       "nombre": "Game Boy Classic 5",
       "precio": "$ 65",
-      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp",
       "id": "8"
     },
     {
