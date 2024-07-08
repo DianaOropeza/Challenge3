@@ -3,13 +3,13 @@
     {
       "nombre": "Stormtrooper 1",
       "precio": "$ 60",
-      "imagenes": "imagenes/img2.png",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "1"
     },
     {
       "nombre": "Game Boy Classic 1",
       "precio": "$ 60",
-      "imagenes": "imagenes/img1.jfif",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "2"
     },
     {
@@ -21,7 +21,7 @@
     {
       "nombre": "Game Boy Classic 2",
       "precio": "$ 60",
-      "imagenes": "imagenes/img2.png",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "4"
     },
     {
@@ -33,19 +33,19 @@
     {
       "nombre": "Game Boy Classic 3",
       "precio": "$ 60",
-      "imagenes": "imagenes/img1.jfif",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "6"
     },
     {
       "nombre": "Game Boy Classic 4",
       "precio": "$ 65",
-      "imagenes": "imagenes/img2.png",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "7"
     },
     {
       "nombre": "Game Boy Classic 5",
       "precio": "$ 65",
-      "imagenes": "imagenes/img1.jfif",
+      "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "8"
     },
     {
