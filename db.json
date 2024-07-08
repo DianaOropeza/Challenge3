@@ -47,12 +47,6 @@
       "precio": "$ 65",
       "imagenes": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "id": "8"
-    },
-    {
-      "id": "600b",
-      "nombre": "Game Boy",
-      "precio": "$ 50",
-      "imagenes": "https://static.nationalgeographicla.com/files/styles/image_3200/public/nationalgeographic_2791022.webp"
     }
   ]
 }
