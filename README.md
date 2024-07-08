@@ -33,6 +33,6 @@ Server escribiendo este comando en su terminal: (```json-server --watch db.json`
 
 ### Captura 
 
-![Captura](https://github.com/DianaOropeza/Portafolio/blob/main/Imagenes/port1.png)
+![Captura](https://github.com/DianaOropeza/Challenge3/blob/main/imagenes/imgCaptura.png)
 
 
